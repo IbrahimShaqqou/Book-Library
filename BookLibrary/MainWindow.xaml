@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Welcome to Your Book Library" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize='24'/>
+        <Label Content="Welcome to Your Book Library" 
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center" 
+               FontSize='24'/>
     </Grid>
 </Window>
